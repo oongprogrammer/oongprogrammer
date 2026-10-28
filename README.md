@@ -43,7 +43,9 @@ All my friends are eating steak and snow
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+can+do+anything;Works+on+my+machine;Ctrl%2BC+Ctrl%2BV+Master;404+Sleep+Not+Found" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oongprogrammer&style=for-the-badge&color=blueviolet" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
