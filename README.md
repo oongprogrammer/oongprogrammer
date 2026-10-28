@@ -32,5 +32,22 @@ All my friends are eating steak and snow
   <img src="https://img.shields.io/badge/Wifi-Required_For_Coding-blue?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Is_My_Best_Friend-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Legacy_Code-Don't_Touch-8B0000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/IQ-Over_9000-ff6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brain-Loading...-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill_Level-Just_Google_It-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mood-Compiling-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Error-Task_Failed_Successfully-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hello_World-I_Made_It-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cat-Walks_On_Keyboard-purple?style=for-the-badge&logo=catppuccin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rubber_Duck-Debugging_Partner-FFD700?style=for-the-badge" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+can+do+anything;Works+on+my+machine;Ctrl%2BC+Ctrl%2BV+Master;404+Sleep+Not+Found" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oongprogrammer&style=for-the-badge&color=blueviolet" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
 </a>
 </p>
